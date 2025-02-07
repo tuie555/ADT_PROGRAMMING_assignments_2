@@ -45,5 +45,4 @@ TextAnalyzer is a Java program designed to analyze a text file by computing vari
 
    ```bash
    javac TextAnalyzer.java
-   
    java TextAnalyzer input.txt
